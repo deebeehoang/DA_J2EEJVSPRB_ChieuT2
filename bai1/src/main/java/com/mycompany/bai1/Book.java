@@ -1,3 +1,5 @@
+package com.mycompany.bai1;
+
 import java.util.Scanner;
 
 public class Book {
@@ -68,5 +70,3 @@ public class Book {
         System.out.println(msg);
     }
 }
-
-
