@@ -5,6 +5,7 @@
     <artifactId>bai1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+<<<<<<< HEAD
     <build>
         <plugins>
             <plugin>
@@ -19,6 +20,8 @@
             </plugin>
         </plugins>
     </build>
+=======
+>>>>>>> 5b34ba724dca3920b288b7898919c104bfc32d1f
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>21</maven.compiler.release>
